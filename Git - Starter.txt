@@ -1,0 +1,13 @@
+a) Install git Client for Windows
+https://git-scm.com/download/win
+
+click on desktop -> Git Bash
+
+b) Administrator@EC2AMAZ-PEF9GQD MINGW32 ~
+$ git config --global user.name "Georgy Jacob"
+
+Administrator@EC2AMAZ-PEF9GQD MINGW32 ~
+$ git config --global user.email "jacobgeorgy@yahoo.com"
+
+Administrator@EC2AMAZ-PEF9GQD MINGW32 ~
+$
